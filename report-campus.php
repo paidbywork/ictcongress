@@ -1,6 +1,6 @@
 <?php 
 
-	require 'db.php';
+    require 'db.php';
     $campusFilter = '';
 
 	// filter result based on campus
